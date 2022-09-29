@@ -1,0 +1,140 @@
+@media (max-width: 575.98px) {
+  .menu:hover .submenu {
+    background-color: #fff;
+    padding: 1em;
+    display: block;
+    border: 2px solid rgba(163, 163, 177, 0.48);
+    line-height: 1.5em;
+    margin-top: 2em;
+  }
+  i.fas.fa-bars {
+    background-color: #0093ff;
+    font-size: 1.5em;
+    padding: 0.3em;
+    border-radius: 8px;
+    color: #fff;
+  }
+  i.fas.fa-bars:hover {
+    background-color: #6389a4;
+  }
+  i.fas.fa-bars {
+    display: block;
+  }
+  .submenu {
+    display: none;
+  }
+  h1.head {
+    font-size: 20px;
+    padding-top: 3em;
+  }
+  p.para-p {
+    font-size: 13px;
+    padding-top: 2em;
+  }
+  img.img-photo {
+    width: 41em;
+    padding-top: 1em;
+    padding-left: 0em;
+  }
+  .hedar-photo {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer {
+    display: flex;
+    padding-left: 2em;
+    padding-right: 0em;
+    flex-direction: column;
+    font-size: 1em;
+    width: 41em;
+  }
+  p.para-foot {
+    padding-left: 4em;
+    width: 41em;
+  }
+  .remaining {
+    font-size: 1.2em;
+    padding-left: 1em;
+  }
+  /* button.but-become {
+    padding: 0.2em 1em;
+  } */
+}
+@media (max-width: 767.98px) {
+  .menu:hover .submenu {
+    background-color: #fff;
+    padding: 1em;
+    display: block;
+    border: 2px solid rgba(163, 163, 177, 0.48);
+    line-height: 1.5em;
+    margin-top: 2em;
+  }
+  .footer {
+    display: flex;
+    padding-left: 2em;
+    padding-right: 0em;
+    flex-direction: column;
+    font-size: 1em;
+    width: 41em;
+  }
+  /* button.but-become {
+    padding: 0.2em 1em;
+  } */
+  i.fas.fa-bars {
+    background-color: #0093ff;
+    font-size: 1.5em;
+    padding: 0.3em;
+    border-radius: 8px;
+    color: #fff;
+  }
+  p.para-foot {
+    padding-left: 4em;
+    width: 41em;
+  }
+  i.fas.fa-bars:hover {
+    background-color: #6389a4;
+  }
+  i.fas.fa-bars {
+    display: block;
+  }
+  .submenu {
+    display: none;
+  }
+  h1.head {
+    font-size: 20px;
+    padding-top: 3em;
+  }
+  p.para-p {
+    font-size: 13px;
+    padding-top: 2em;
+  }
+  img.img-photo {
+    width: 41em;
+    padding-top: 1em;
+    padding-left: 0em;
+  }
+  .hedar-photo {
+    display: flex;
+    flex-direction: column;
+  }
+  .remaining {
+    font-size: 1.2em;
+    padding-left: 1em;
+  }
+}
+@media (max-width: 991.98px) {
+  h1.head {
+    font-size: 33px;
+  }
+  p.para-p {
+    font-size: 23px;
+  }
+}
+@media (max-width: 1199.98px) {
+  h1.head {
+    font-size: 33px;
+  }
+  p.para-p {
+    font-size: 23px;
+  }
+}
